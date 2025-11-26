@@ -4,6 +4,10 @@ stock/Scripts/
 stock/Include/
 stock/pyvenv.cfg
 
+# But allow the Django project
+!stock/stockproject/
+!stock/stockproject/**
+
 # Python
 __pycache__/
 *.py[cod]
