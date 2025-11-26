@@ -98,4 +98,3 @@ pip install django djangorestframework
   - Configure a proper database (PostgreSQL, etc.)
   - Set `DEBUG = False` and configure `ALLOWED_HOSTS` and static files.
 
-
